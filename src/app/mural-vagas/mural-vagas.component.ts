@@ -28,7 +28,7 @@ export class MuralVagasComponent implements OnInit {
                 item.nome,
                 item.foto,
                 item.descricao,
-                item.salario                
+                item.salario,              
               );
             }
           )
